@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\projeler\yıldız-yapma\yıldız-yapma\bin\Debug\yıldız-yapma.exe.config
+C:\Users\user\Desktop\projeler\yıldız-yapma\yıldız-yapma\bin\Debug\yıldız-yapma.exe
+C:\Users\user\Desktop\projeler\yıldız-yapma\yıldız-yapma\bin\Debug\yıldız-yapma.pdb
+C:\Users\user\Desktop\projeler\yıldız-yapma\yıldız-yapma\obj\Debug\yıldız-yapma.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\projeler\yıldız-yapma\yıldız-yapma\obj\Debug\yıldız-yapma.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\projeler\yıldız-yapma\yıldız-yapma\obj\Debug\yıldız-yapma.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projeler\yıldız-yapma\yıldız-yapma\obj\Debug\yıldız-yapma.exe
+C:\Users\user\Desktop\projeler\yıldız-yapma\yıldız-yapma\obj\Debug\yıldız-yapma.pdb
